@@ -3,8 +3,6 @@ print("hello world")
 
 #Im going to commit this from the dev-py
 
-print("Commit 1")
-
-print("Commit 2")
+print("Hello Github")
 
 print("Trying out revert")
